@@ -17,13 +17,19 @@
 
 const object = "pen"
 
-switch( object ) {
-    case 'pen' : 
-    console.log(object + " is used for writing")
-    break;
-    case 'bat' :
-    console.log(object +" is used for playing cricket")
-    break;
-    default:
-        console.log(object + " is not available.")
-}
+// switch( object ) {
+//     case 'pen' : 
+//     console.log(object + " is used for writing")
+//     break;
+//     case 'bat' :
+//     console.log(object +" is used for playing cricket")
+//     break;
+//     default:
+//         console.log(object + " is not available.")
+// }
+
+//Ternary Operator in js
+let age = 12
+age = Number.parseInt(age)
+console.log("You are", age<18? " not eligible to drive." : " eligible to drive.")
+
