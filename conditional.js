@@ -15,7 +15,7 @@
 
 //Switch Statement
 
-const object = "pen"
+//const object = "pen"
 
 // switch( object ) {
 //     case 'pen' : 
