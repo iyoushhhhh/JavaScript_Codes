@@ -31,7 +31,7 @@ switch( selection ){
         findAvg(a, b)
         break;
 
-    case "2":
+    case "3":
         var a = prompt("enter the 1st number :")
         var b = prompt("enter the 2nd number :")
         findSub(a, b)
@@ -40,3 +40,13 @@ switch( selection ){
             prompt('Enter valid Input :(')
 
 }
+/*
+
+*********Arrow Function*********
+ const myFun = (x, y) =>{
+    return x + y
+ }
+
+ console.log(myfun(12, 12))
+
+*/
