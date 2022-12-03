@@ -64,4 +64,4 @@ let num = [10, 15, 67, 89, 23, 77, 11]
 // num.splice(indextostart, NumberOfElementsToDelete, element to add_1, element to add_2........... )
 num.splice(1, 2, 100, 101)
 console.log(num)
-// hi
+// commit check
