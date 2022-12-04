@@ -1,2 +1,2 @@
 # JavaScript_Codes
-Javascript basic codes..
+Javascript basic codes.
