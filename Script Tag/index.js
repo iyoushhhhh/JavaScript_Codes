@@ -1,2 +1,2 @@
-console.log("Working............")
+console.log(" Seperate Script File Has many advantages " )
 
