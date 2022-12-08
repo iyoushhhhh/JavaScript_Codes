@@ -1,0 +1,20 @@
+.heading-1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.buttons{
+    padding-top: 50px;
+}
+
+#choices{
+    /* border: 2px solid blue; */
+}
+
+#main{
+    padding-top: 60px;
+}
+
+body{
+    background-color: antiquewhite;
+}
