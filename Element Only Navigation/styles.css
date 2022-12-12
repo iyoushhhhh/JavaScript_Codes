@@ -1,0 +1,25 @@
+html, body{
+    background-color: rgb(255, 255, 255);
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+ul{
+    display: flex;
+    background-color: rgb(139, 144, 144);
+    margin: 0;
+    padding: 15px 0;
+}
+
+ul li{
+    list-style: none;
+    margin:0 23px ;
+}
+
+.container{
+    border-color: azure;
+}
