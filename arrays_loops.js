@@ -20,7 +20,7 @@ for( let i of num1){
     console.log(i)
 }
 
-//for...in loop
+//for(in loop)
 for(let i in num1){
     console.log(i) //prints index
 }
